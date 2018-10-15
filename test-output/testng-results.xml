@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46472" started-at="2018-10-15T02:35:25Z" finished-at="2018-10-15T02:36:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46472" started-at="2018-10-15T02:35:25Z" finished-at="2018-10-15T02:36:11Z">
+      <class name="com.ngalam.app.MainApp">
+        <test-method status="PASS" signature="classSetup()[pri:0, instance:com.ngalam.app.MainApp@5e3a8624]" name="classSetup" is-config="true" duration-ms="9" started-at="2018-10-15T02:35:25Z" finished-at="2018-10-15T02:35:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ngalam.app.MainApp@5e3a8624]" name="setup" is-config="true" duration-ms="2776" started-at="2018-10-15T02:35:25Z" finished-at="2018-10-15T02:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testAmazonSearch()[pri:0, instance:com.ngalam.app.MainApp@5e3a8624]" name="testAmazonSearch" duration-ms="40692" started-at="2018-10-15T02:35:28Z" finished-at="2018-10-15T02:36:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonSearch -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.ngalam.app.MainApp@5e3a8624]" name="cleanUp" is-config="true" duration-ms="2979" started-at="2018-10-15T02:36:08Z" finished-at="2018-10-15T02:36:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.ngalam.app.MainApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
